@@ -10,19 +10,19 @@ To obtain a challenging Data Scientist position utilizing my strong analytical s
 
 **ALPINE INSTITUTE OF TECHNOLOGY, UJJAIN**
 
-***Bachelor of Technology in Mechanical Engineering | 2017-2021***
+***Bachelor of Technology in Mechanical Engineering, 2017-2021***
 
 ***CGPA : 7.65***
 
 **LMNSM INTER COLLEGE, RANCHI**
 
-***Intermediate (HSC) with Physics, Chemistry and Mathematics | 2016-2017***
+***Intermediate (HSC) with Physics, Chemistry and Mathematics, 2016-2017***
 
 ***Percentage: 56.6%***
 
 **EMMANUEL MISSION SCHOOL, KOTA**
 
-***SSC | 2013-2014***
+***SSC, 2013-2014***
 
 ***CGPA : 8.2***
 
