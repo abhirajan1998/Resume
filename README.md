@@ -2,33 +2,33 @@
 
 [LinkedIn](linkedin.com/in/abhishekrajan1998) | [GitHub](github.com/abhirajan1998) | [Email](abhishekrajan1998@gmail.com) | [Contact](+917479990358)
 
-## `Objective` :bow_and_arrow:
+## `Objective` 🎯
 
 To obtain a challenging Data Scientist position utilizing my strong analytical skills, technical knowledge, and passion for solving complex problems through data-driven solutions. I am eager to contribute to a team-oriented environment while continuously learning and growing as a professional in the field.
 
-## `Education` :school:
+## `Education` 🏫
 
 **ALPINE INSTITUTE OF TECHNOLOGY, UJJAIN**
 
 ***Bachelor of Technology in Mechanical Engineering | 2017-2021***
 
-****CGPA : 7.65****
+***CGPA : 7.65***
 
 **LMNSM INTER COLLEGE, RANCHI**
 
 ***Intermediate (HSC) with Physics, Chemistry and Mathematics | 2016-2017***
 
-****Percentage: 56.6%****
+***Percentage: 56.6%***
 
 **EMMANUEL MISSION SCHOOL, KOTA**
 
 ***SSC | 2013-2014***
 
-****CGPA : 8.2****
+***CGPA : 8.2***
 
-## `Skills & Abilities` :brain:
+## `Skills & Abilities` 🧠
 
-### `Technical` :technologist:
+### `Technical` 🧑‍💻
 
 Strong foundation in mathematics and statistics
 
@@ -40,7 +40,7 @@ Knowledge of machine learning algorithms and their applications
 
 Ability to visualize and present data using tools such as Tableau or Matplotlib
 
-### `Personal` :superhero:
+### `Personal` 🦸
 
 Problem-solving skills and ability to think critically
 
