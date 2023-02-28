@@ -1,6 +1,6 @@
 # Abhishek Kumar
 
-[LinkedIn](linkedin.com/in/abhishekrajan1998) | [GitHub](github.com/abhirajan1998) | [Email](abhishekrajan1998@gmail.com) | [Contact](+917479990358)
+[LinkedIn](https://www.linkedin.com/in/abhishekrajan1998) | [GitHub](https://www.github.com/abhirajan1998) | [Email](mailto:abhishekrajan1998@gmail.com)
 
 ## `Objective` 🎯
 
